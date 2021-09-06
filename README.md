@@ -6,7 +6,10 @@ Press "Q" to exit
 # Errors
 If it gives an error in cv.cvtColor change the vlue of cap in line 44 to cv.VideoCapture(0) 
 # Running
-Just install python from https://www.python.org/downloads/ and run main.py, it will check for and install any missing libraries so no need to be worried about installing them 😀
+Just install python from https://www.python.org/downloads/ and run main.py, it will check for and install any missing libraries so no need to be worried about installing them. 😀
+
+# WARNING
+Extremely hard to contrrol and takes a little getting used to.
 # Thank You
 Thanks for coming to this repo 😀
 
