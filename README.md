@@ -9,4 +9,5 @@ Just install python from https://www.python.org/downloads/ and run main.py, it w
 #Thank you
 Thanks for coming to this repo 😀
 
-P.S if there are any doubts/errors feel free to contact me (im not that famous so will reply to your doubts ASAP)
+P.S if there are any doubts/errors feel free to contact me at askgithubdoubtshere@gmail.com 
+ (yes i created that email and im not that famous so will reply to your doubts ASAP)
