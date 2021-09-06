@@ -1,7 +1,7 @@
 # Cursor-Control-With-Hand
 Control your cursor with your HANDS!
 # Controls
-Use your right hand index finger to control the cursor and get your left hand in frame to click
+Use your right hand index finger to control the cursor and get your left hand in frame to click \n
 Press "Q" to exit
 # Errors
 If it gives an error in cv.cvtColor change the vlue of cap in line 44 to cv.VideoCapture(0) 
