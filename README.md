@@ -13,7 +13,7 @@ Extremely hard to contrrol and takes a little getting used to.
 # Thank You
 Thanks for coming to this repo 😀
 
-<button href="https://codeload.github.com/SiddharthRajpal/Cursor-Control-With-Hand/zip/refs/tags/V1.5" class="button big">Download Latest Version</button>
+<button href="https://codeload.github.com/SiddharthRajpal/Cursor-Control-With-Hand/zip/refs/tags/V1.5">Download Latest Version</button>
 
 
 P.S if there are any doubts/errors feel free to contact me at askgithubdoubtshere@gmail.com 
