@@ -5,6 +5,7 @@ Use your right hand index finger to control the cursor and get your left hand in
 Press "Q" to exit
 # Errors
 If it gives an error in cv.cvtColor change the vlue of cap in line 44 to cv.VideoCapture(0) 
+Working on fix for installing autopy, seems to work fine on jupyterlab.
 # Running
 Just install python from https://www.python.org/downloads/ and run main.py, it will check for and install any missing libraries so no need to be worried about installing them. 😀
 
